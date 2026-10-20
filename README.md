@@ -1,5 +1,7 @@
 # Indian Street Food Body Damage Predictor
 
+click here for demo -->> "https://street-food-body-damage-predictor.streamlit.app/"
+
 A beginner-friendly Machine Learning project that uses **Linear Regression** to predict the dataset's `Annual_Body_Damage_Percentage` from the entered consumption counts of selected Indian street foods.
 
 > **Important:** This is an educational prediction project, not a medically validated measure of body damage or health risk. Its predictions depend on the dataset and should not be used for medical or dietary decisions.
